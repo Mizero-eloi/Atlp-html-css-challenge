@@ -58,7 +58,7 @@ body {
 }
 
 .contentContainer p {
-  color: #15335a;
+  color: var(--primaryBlue);
   font-weight: bold;
   margin-top: 10px;
 }
@@ -116,7 +116,7 @@ body {
 }
 
 .qualitiesContainer h2 {
-  color: #0f2d55;
+  color: var(--primaryBlue);
   margin-top: 20px;
   margin-left: 20px;
 }
